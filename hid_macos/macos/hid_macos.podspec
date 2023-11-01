@@ -14,6 +14,7 @@ A new flutter plugin project.
   s.author           = { 'Your Company' => 'email@example.com' }
   s.source           = { :path => '.' }
   s.source_files     = 'Classes/**/*'
+  s.dependency 'FlutterMacOS'
   s.dependency 'hidapi'
 
   s.platform = :osx, '10.11'

@@ -28,6 +28,8 @@ dependency_overrides:
     path: ../../hid_macos
   hid_windows:
     path: ../../hid_windows
+  hid_platform_interface:
+    path: ../../hid_platform_interface
 
 flutter:
   uses-material-design: true
